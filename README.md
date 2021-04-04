@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://fb.com/furi19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="furi19" height="30" width="40" /></a>
 <a href="https://instagram.com/furii_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="furii_19" height="30" width="40" /></a>
+<a href="https://t.me/furqanmehraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="furqanmehraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
