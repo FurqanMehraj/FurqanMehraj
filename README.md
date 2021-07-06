@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan Mehraj Dar</h1>
 <h3 align="center">A passionate Full-Stack Developer from Kashmir</h3>
 
-- 🔭 I’m currently working on [OrthoEvents](https://orthoevents.net/)
-
 - 👯 I’m looking to collaborate on **React Js**
 
 - 🤝 I’m looking for help with **Laravel 8**
